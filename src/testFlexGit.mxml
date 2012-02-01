@@ -10,4 +10,8 @@
 
 	<s:Button label = "coucou walace &amp; commint !" />
 
+	<s:Grid>
+
+	</s:Grid>
+
 </s:Application>
