@@ -9,5 +9,7 @@
 	</fx:Declarations>
 
 	<s:Button label = "coucou walace &amp; commint !" />
+	<s:Button label = "coucou walace &amp; commint !" />
+	<s:Button label = "coucou walace &amp; commint !" />
 
 </s:Application>
