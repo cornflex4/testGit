@@ -4,6 +4,7 @@
 		 xmlns:mx = "library://ns.adobe.com/flex/mx"
 		 width = "400"
 		 height = "300">
+    <s:layout><s:VerticalLayout/></s:layout>
 	<s:Label text = "coucou" />
 	<s:Label text = "coucou2" />
 </s:Group>
