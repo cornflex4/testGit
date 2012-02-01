@@ -3,7 +3,7 @@
 			   xmlns:s = "library://ns.adobe.com/flex/spark"
 			   xmlns:mx = "library://ns.adobe.com/flex/mx"
 			   minWidth = "955"
-			   minHeight = "600">
+			   minHeight = "600" xmlns:local="*">
 	<fx:Declarations>
 		<!-- Placer ici les éléments non visuels (services et objets de valeur, par exemple). -->
 	</fx:Declarations>
@@ -12,6 +12,8 @@
 	<s:Button label = "coucou walace &amp; commint !" />
 	<s:Button label = "coucou walace &amp; commint !" />
 
+	<local:TestCompo />
+	
 	<s:Grid>
 
 	</s:Grid>
