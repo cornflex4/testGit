@@ -10,21 +10,6 @@
 	</fx:Declarations>
 
 	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou        &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
-	<s:Button label = "coucou walace &amp; commint !" />
 
 	<local:TestCompo />
 
